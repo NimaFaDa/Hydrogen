@@ -1,0 +1,21 @@
+﻿id;name;lat;long;country_code
+GIE_LG_0;Zeebrugge LNG Terminal;51.323;3.213;BE
+GIE_LG_1;Bilbao LNG Terminal;43.3612;-3.09473;ES
+GIE_LG_2;Barcelona LNG Terminal;41.398;2.174;ES
+GIE_LG_3;Cartagena LNG Terminal;37.624;-0.998;ES
+GIE_LG_4;Huelva LNG Terminal;37.2583;-6.9508;ES
+GIE_LG_5;Sagunto LNG Terminal;39.6426;-0.2344;ES
+GIE_LG_6;Mugardos LNG Terminal;43.4578;-8.253;ES
+GIE_LG_7;Fos Tonkin LNG Terminal;43.454;4.85167;FR
+GIE_LG_8;Montoir de Bretagne LNG Terminal;47.32;-2.14;FR
+GIE_LG_9;Dunkerque LNG Terminal;51.033134;2.194792;FR
+GIE_LG_10;Fos Cavaou LNG Terminal;43.42239;4.89863;FR
+GIE_LG_11;Isle of Grain LNG Terminal;51.45;0.711;GB
+GIE_LG_12;South Hook LNG Terminal;51.713781;-5.078012;GB
+GIE_LG_13;Revythoussa LNG Terminal;37.96;23.4023;GR
+GIE_LG_14;Panigaglia LNG Terminal;44.073876;9.830632;IT
+GIE_LG_15;FSRU OLT Offshore LNG Toscana;43.548;Okt 08;IT
+GIE_LG_16;Porto Levante LNG Terminal;45.048836;12.36397;IT
+GIE_LG_17;FSRU Independence;55.7252;21.151954;LT
+GIE_LG_18;Rotterdam Gate Terminal;51.9536;Apr 14;NL
+GIE_LG_20;Sines LNG Terminal;37.9583;-8.8048;PT
