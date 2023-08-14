@@ -12,7 +12,7 @@
             },
             "properties": {
                 "name": "Zeebrugge LNG Terminal",
-                "LNG": "LNG"
+                "LNG": "LNG",
                 "id": "GIE_LG_0",
                 "country_code": "BE",
                 "tags": {},
